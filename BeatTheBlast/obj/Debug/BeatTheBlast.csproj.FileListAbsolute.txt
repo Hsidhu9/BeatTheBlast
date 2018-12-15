@@ -1,0 +1,12 @@
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\bin\Debug\BeatTheBlast.exe.config
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\bin\Debug\BeatTheBlast.exe
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\bin\Debug\BeatTheBlast.pdb
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.csprojResolveAssemblyReference.cache
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.ChooseLevelForm.resources
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.HighScoreForm.resources
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.Properties.Resources.resources
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.Welcome.resources
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.csproj.GenerateResource.Cache
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.csproj.CoreCompileInputs.cache
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.exe
+C:\Users\hsidh\Desktop\FilesCoded\BeatTheBlast\BeatTheBlast\obj\Debug\BeatTheBlast.pdb
